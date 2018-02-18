@@ -124,6 +124,10 @@ Double-click "Start dev terminal" on the Desktop and enter
 
 Unlike the assistant library demo, this demo does not support hotword detection. To ask Google Assistant a question, press the arcade button and speak. When you are done, either press the arcade button and say "goodbye", or simply press Ctrl-C to end the application.
 
+### known issue
+you may get following error..
+"KeyError: None" fix available here(https://github.com/google/aiyprojects-raspbian/issues/255). 
+
 ### Do Somethimg more
 
 Add a new voice command to kit
